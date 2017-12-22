@@ -14,5 +14,5 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-Project Description
+Project Description:
 Rethinking the Alphabet and its Words is a project which attempts to delete extraneous characters from words by removing unnecessary vowels, while maintaing the words meaning.
